@@ -1,0 +1,11 @@
+:root,body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(0.4turn, #008ea4, #00feff);
+    color: white;
+}
+body {
+    padding: 10pt;
+}
